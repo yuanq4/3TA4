@@ -21,8 +21,6 @@
 .\objects\stm32l476g_discovery.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_gpio_ex.h
 .\objects\stm32l476g_discovery.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_dma.h
 .\objects\stm32l476g_discovery.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_cortex.h
-.\objects\stm32l476g_discovery.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_adc.h
-.\objects\stm32l476g_discovery.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_adc_ex.h
 .\objects\stm32l476g_discovery.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_flash.h
 .\objects\stm32l476g_discovery.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_flash_ex.h
 .\objects\stm32l476g_discovery.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_flash_ramfunc.h

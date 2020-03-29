@@ -23,13 +23,8 @@
 .\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_flash.h
 .\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_flash_ex.h
 .\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_flash_ramfunc.h
-.\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_i2c.h
-.\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_i2c_ex.h
 .\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_lcd.h
 .\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_pwr.h
 .\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_pwr_ex.h
-.\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_rng.h
-.\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_rtc.h
-.\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_rtc_ex.h
 .\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_tim.h
 .\objects\stm32l4xx_hal_tim.o: ..\STM32Cube_FW_L4_V1.8.0\Drivers\STM32L4xx_HAL_Driver\Inc\stm32l4xx_hal_tim_ex.h
